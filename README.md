@@ -1,0 +1,2 @@
+# GasCopySpreadSheet
+GASでスプレッドシートの複製
